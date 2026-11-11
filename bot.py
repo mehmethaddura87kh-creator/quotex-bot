@@ -6,9 +6,8 @@ import telebot
 from telebot import types
 import yfinance as yf
 
-# توكن البوت الخاص بك
+# توكن البوت الخاص بك المحدث
 TOKEN = "9060288987:AAFyt6lLCiB0weCBM7z-yS_CMA6isY9lGGk"
-
 
 # الـ Chat ID الخاص بك
 CHAT_ID = "5088345567"
