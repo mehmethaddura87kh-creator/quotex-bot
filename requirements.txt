@@ -1,4 +1,6 @@
 pyTelegramBotAPI
+tradingview_ta
 yfinance
 pandas
 numpy
+
